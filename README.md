@@ -1,4 +1,4 @@
-# 📝 블로그 템플릿 입니다.
+# 💡 Blog Template
 
 https://www.choi-hyunho.com/
 
@@ -30,6 +30,6 @@ yarn dev
 
 <br>
 
-## 참고
+## 👀 참고
 
 -   https://github.com/Choi-HyunHo/blog
