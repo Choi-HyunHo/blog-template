@@ -1,4 +1,4 @@
-# 💡 Blog Template
+# Blog Template
 
 https://www.choi-hyunho.com/
 
